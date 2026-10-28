@@ -1,6 +1,6 @@
 
 Interested in DSP, AI, edge computing and math. 
-- 📫 For any suggestions or colaboration you can find me at tulex14@proton.me
+📫 For any suggestions or colaboration you can find me at tulex14@proton.me
 
 <!-- Tarjeta general de estadísticas -->
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=SPQR14&show_icons=true&theme=tokyonight&hide_border=true)
