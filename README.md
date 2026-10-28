@@ -1,4 +1,5 @@
 
+Interested in DSP, AI, edge computing and math. 
 - 📫 For any suggestions or colaboration you can find me at tulex14@proton.me
 
 <!-- Tarjeta general de estadísticas -->
