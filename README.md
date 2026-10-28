@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @SPQR14
-- 👀 I’m interested in AI and computer science
-- 🌱 I’m currently learning Python at pro level and Julia
-- 📫 For any suggestions or colaboration you can find me at spqr14@protonmail.com or IG: https://www.instagram.com/sqpr14_/
+
+- 📫 For any suggestions or colaboration you can find me at tulex14@proton.me
+
+<!-- Tarjeta general de estadísticas -->
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=SPQR14&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Lenguajes más usados en formato compacto -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPQR14&layout=compact&theme=tokyonight&hide_border=true)
 
 <!---
 SPQR14/SPQR14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
